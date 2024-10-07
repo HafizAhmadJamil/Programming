@@ -1,0 +1,209 @@
+2024-10-06T00:17:07.714718+03:00 E32 CRON[229029]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T00:17:07.717308+03:00 E32 CRON[229029]: pam_unix(cron:session): session closed for user root
+2024-10-06T01:17:08.647086+03:00 E32 CRON[239692]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T01:17:08.648947+03:00 E32 CRON[239692]: pam_unix(cron:session): session closed for user root
+2024-10-06T01:53:58.920389+03:00 E32 sudo: srvadmin : TTY=pts/5 ; PWD=/home/srvadmin/MIAJ/NA/Terraform/Testing/0-DNS ; USER=root ; COMMAND=/usr/bin/apt install dnsutils
+2024-10-06T01:53:58.923885+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T01:54:03.352029+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T01:54:03.352029+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T01:54:03.352029+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T01:54:03.352029+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T02:17:08.833788+03:00 E32 CRON[251536]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T02:17:08.836208+03:00 E32 CRON[251536]: pam_unix(cron:session): session closed for user root
+2024-10-06T03:10:04.943638+03:00 E32 CRON[261025]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T03:10:04.944867+03:00 E32 CRON[261025]: pam_unix(cron:session): session closed for user root
+2024-10-06T03:17:04.953733+03:00 E32 CRON[262146]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T03:17:04.955846+03:00 E32 CRON[262146]: pam_unix(cron:session): session closed for user root
+2024-10-06T03:30:08.925064+03:00 E32 CRON[264240]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T03:30:08.925782+03:00 E32 CRON[264240]: pam_unix(cron:session): session closed for user root
+2024-10-06T04:17:04.708199+03:00 E32 CRON[272321]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T04:17:04.709630+03:00 E32 CRON[272321]: pam_unix(cron:session): session closed for user root
+2024-10-06T05:17:04.858127+03:00 E32 CRON[281995]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T05:17:04.859860+03:00 E32 CRON[281995]: pam_unix(cron:session): session closed for user root
+2024-10-06T06:17:08.630739+03:00 E32 CRON[291777]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T06:17:08.632084+03:00 E32 CRON[291777]: pam_unix(cron:session): session closed for user root
+2024-10-06T06:25:03.938540+03:00 E32 CRON[293562]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T06:25:03.945106+03:00 E32 CRON[293562]: pam_unix(cron:session): session closed for user root
+2024-10-06T06:47:01.157042+03:00 E32 CRON[297457]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T06:47:01.160549+03:00 E32 CRON[297457]: pam_unix(cron:session): session closed for user root
+2024-10-06T07:07:51.960798+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:gluster/glusterfs-10
+2024-10-06T07:07:51.963937+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:07:58.157823+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:08:16.766107+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/apt update
+2024-10-06T07:08:16.766385+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:08:18.544316+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:08:25.047764+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/apt install glusterfs-server -y
+2024-10-06T07:08:25.048054+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:08:29.483002+03:00 E32 useradd[302323]: new user: name=_rpc, UID=105, GID=65534, home=/run/rpcbind, shell=/usr/sbin/nologin, from=/dev/pts/9
+2024-10-06T07:08:30.596775+03:00 E32 useradd[302696]: new user: name=statd, UID=106, GID=65534, home=/var/lib/nfs, shell=/usr/sbin/nologin, from=/dev/pts/9
+2024-10-06T07:08:31.340595+03:00 E32 groupadd[302824]: group added to /etc/group: name=gluster, GID=108
+2024-10-06T07:08:31.346275+03:00 E32 groupadd[302824]: group added to /etc/gshadow: name=gluster
+2024-10-06T07:08:31.347748+03:00 E32 groupadd[302824]: new group: name=gluster, GID=108
+2024-10-06T07:08:31.401361+03:00 E32 useradd[302834]: new user: name=gluster, UID=107, GID=108, home=/var/lib/glusterd, shell=/usr/sbin/nologin, from=/dev/pts/9
+2024-10-06T07:08:34.334306+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:08:55.500332+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/mkdir -p --mode=0755 /usr/share/keyrings
+2024-10-06T07:08:55.500954+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:08:55.502019+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:08:55.505234+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/tee /usr/share/keyrings/tailscale-archive-keyring.gpg
+2024-10-06T07:08:55.505795+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:08:56.049416+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:08:56.052442+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/tee /etc/apt/sources.list.d/tailscale.list
+2024-10-06T07:08:56.052899+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:08:56.600364+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:08:56.603395+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/apt-get update
+2024-10-06T07:08:56.604600+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:08:58.519044+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:08:58.523396+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/apt-get install -y tailscale tailscale-archive-keyring
+2024-10-06T07:08:58.523966+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:09:22.574055+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:09:28.448245+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/tailscale up
+2024-10-06T07:09:28.448596+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:09:39.628289+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:09:51.945300+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/tailscale up --accept-routes
+2024-10-06T07:09:51.945633+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:09:51.961059+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:15:20.292885+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/systemctl start glusterd
+2024-10-06T07:15:20.297158+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:15:21.615660+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:15:21.620154+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/systemctl enable glusterd
+2024-10-06T07:15:21.620521+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:15:21.810584+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:15:35.291002+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/nano /etc/hosts
+2024-10-06T07:15:35.291406+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:16:19.828575+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:17:01.173146+03:00 E32 CRON[305690]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T07:17:01.175621+03:00 E32 CRON[305690]: pam_unix(cron:session): session closed for user root
+2024-10-06T07:17:51.059777+03:00 E32 sudo: srvadmin : TTY=pts/7 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/mkdir -p /gluster/volumes
+2024-10-06T07:17:51.064381+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:17:51.064549+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:20:35.386717+03:00 E32 sudo: srvadmin : TTY=pts/7 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/mkdir -p /gluster/volumes
+2024-10-06T07:20:35.387070+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:20:35.388172+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:21:35.306089+03:00 E32 sudo: srvadmin : TTY=pts/7 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/zsh
+2024-10-06T07:21:35.309177+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:23:56.113654+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:28:06.550099+03:00 E32 systemd-logind[412]: New seat seat0.
+2024-10-06T07:28:09.016441+03:00 E32 login[628]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2024-10-06T07:28:09.016699+03:00 E32 login[628]: PAM adding faulty module: pam_lastlog.so
+2024-10-06T07:28:09.580752+03:00 E32 login[628]: pam_unix(login:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:28:09.601689+03:00 E32 systemd-logind[412]: New session 1 of user srvadmin.
+2024-10-06T07:28:09.639377+03:00 E32 (systemd): pam_unix(systemd-user:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:30:58.264978+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/mount -a
+2024-10-06T07:30:58.265213+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:30:58.314840+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:31:28.251755+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/tail /var/log/glusterfs/mnt.log
+2024-10-06T07:31:28.251998+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:31:28.252875+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:31:51.093270+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/sbin/gluster pool list
+2024-10-06T07:31:51.093511+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:31:51.138769+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:31:59.763890+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/nano /etc/hosts
+2024-10-06T07:31:59.764124+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:32:20.686104+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:32:23.083392+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/sbin/gluster pool list
+2024-10-06T07:32:23.083613+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:32:23.124823+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:32:37.099678+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/sbin/gluster pool list
+2024-10-06T07:32:37.099853+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:32:37.145186+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:32:45.396700+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/mount -a
+2024-10-06T07:32:45.396921+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:32:45.635244+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:33:44.030341+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/mnt ; USER=root ; COMMAND=/usr/bin/rm test
+2024-10-06T07:33:44.030832+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:33:44.085648+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:35:33.588265+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/nano /etc/resolv.conf
+2024-10-06T07:35:33.588699+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:36:00.604845+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:40:31.505561+03:00 E32 sudo: srvadmin : TTY=pts/2 ; PWD=/mnt/test_A ; USER=root ; COMMAND=/usr/bin/nano /etc/fstab
+2024-10-06T07:40:31.508461+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:40:50.475756+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:41:30.617399+03:00 E32 sudo: srvadmin : TTY=pts/2 ; PWD=/mnt/test_A ; USER=root ; COMMAND=/usr/bin/nano /etc/fstab
+2024-10-06T07:41:30.617739+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:41:33.019325+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:42:10.723836+03:00 E32 systemd-logind[226]: New seat seat0.
+2024-10-06T07:42:13.265879+03:00 E32 login[490]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2024-10-06T07:42:13.266036+03:00 E32 login[490]: PAM adding faulty module: pam_lastlog.so
+2024-10-06T07:42:13.815272+03:00 E32 login[490]: pam_unix(login:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:42:13.836331+03:00 E32 systemd-logind[226]: New session 1 of user srvadmin.
+2024-10-06T07:42:13.865331+03:00 E32 (systemd): pam_unix(systemd-user:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:42:31.896067+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/nano /etc/fstab
+2024-10-06T07:42:31.896440+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:43:43.956288+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:45:21.352101+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/nano /etc/hosts
+2024-10-06T07:45:21.352306+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:47:20.800178+03:00 E32 sudo: srvadmin : TTY=pts/2 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/nano /etc/wsl.conf
+2024-10-06T07:47:20.804675+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:47:24.674089+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:47:43.563925+03:00 E32 systemd-logind[228]: New seat seat0.
+2024-10-06T07:47:46.124430+03:00 E32 login[497]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2024-10-06T07:47:46.124612+03:00 E32 login[497]: PAM adding faulty module: pam_lastlog.so
+2024-10-06T07:47:46.588034+03:00 E32 login[497]: pam_unix(login:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:47:46.601756+03:00 E32 systemd-logind[228]: New session 1 of user srvadmin.
+2024-10-06T07:47:46.621336+03:00 E32 (systemd): pam_unix(systemd-user:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:47:56.461910+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/nano /etc/hosts
+2024-10-06T07:47:56.462224+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:48:26.505669+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:48:39.812458+03:00 E32 systemd-logind[221]: New seat seat0.
+2024-10-06T07:48:42.002792+03:00 E32 login[442]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2024-10-06T07:48:42.002885+03:00 E32 login[442]: PAM adding faulty module: pam_lastlog.so
+2024-10-06T07:48:42.052829+03:00 E32 login[442]: pam_unix(login:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:48:42.064239+03:00 E32 systemd-logind[221]: New session 1 of user srvadmin.
+2024-10-06T07:48:42.081990+03:00 E32 (systemd): pam_unix(systemd-user:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:48:44.507481+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/nano /etc/hosts
+2024-10-06T07:48:44.507756+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:48:45.764188+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:49:06.683459+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=./mnt.sh
+2024-10-06T07:49:06.683654+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:49:06.940188+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T07:50:59.497494+03:00 E32 systemd-logind[223]: New seat seat0.
+2024-10-06T07:51:01.665126+03:00 E32 login[439]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2024-10-06T07:51:01.665221+03:00 E32 login[439]: PAM adding faulty module: pam_lastlog.so
+2024-10-06T07:51:02.129362+03:00 E32 login[439]: pam_unix(login:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:51:02.145574+03:00 E32 systemd-logind[223]: New session 1 of user srvadmin.
+2024-10-06T07:51:02.165382+03:00 E32 (systemd): pam_unix(systemd-user:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T07:53:50.155829+03:00 E32 sudo: srvadmin : TTY=pts/0 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/mount -t glusterfs localhost:/staging-gfs /mnt
+2024-10-06T07:53:50.156327+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-06T07:53:50.408542+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T08:17:01.258886+03:00 E32 CRON[1125]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T08:17:01.263283+03:00 E32 CRON[1125]: pam_unix(cron:session): session closed for user root
+2024-10-06T09:17:01.289355+03:00 E32 CRON[1281]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T09:17:01.290939+03:00 E32 CRON[1281]: pam_unix(cron:session): session closed for user root
+2024-10-06T10:17:01.318131+03:00 E32 CRON[1427]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T10:17:01.319502+03:00 E32 CRON[1427]: pam_unix(cron:session): session closed for user root
+2024-10-06T20:54:27.777632+03:00 E32 systemd-logind[223]: New seat seat0.
+2024-10-06T20:54:30.058491+03:00 E32 login[439]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2024-10-06T20:54:30.058769+03:00 E32 login[439]: PAM adding faulty module: pam_lastlog.so
+2024-10-06T20:54:30.548927+03:00 E32 login[439]: pam_unix(login:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T20:54:30.562275+03:00 E32 systemd-logind[223]: New session 1 of user srvadmin.
+2024-10-06T20:54:30.583315+03:00 E32 (systemd): pam_unix(systemd-user:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T20:54:31.331442+03:00 E32 sudo: srvadmin : TTY=pts/1 ; PWD=/home/srvadmin ; USER=root ; COMMAND=/usr/bin/mount -t glusterfs localhost:/staging-gfs /mnt
+2024-10-06T20:54:31.332208+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by srvadmin(uid=1000)
+2024-10-06T20:54:36.537988+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-06T21:17:01.575873+03:00 E32 CRON[867]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T21:17:01.579505+03:00 E32 CRON[867]: pam_unix(cron:session): session closed for user root
+2024-10-06T22:10:46.298865+03:00 E32 systemd-logind[224]: New seat seat0.
+2024-10-06T22:10:48.510911+03:00 E32 login[440]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2024-10-06T22:10:48.511038+03:00 E32 login[440]: PAM adding faulty module: pam_lastlog.so
+2024-10-06T22:10:49.061413+03:00 E32 login[440]: pam_unix(login:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T22:10:49.074629+03:00 E32 systemd-logind[224]: New session 1 of user srvadmin.
+2024-10-06T22:10:49.096553+03:00 E32 (systemd): pam_unix(systemd-user:session): session opened for user srvadmin(uid=1000) by srvadmin(uid=0)
+2024-10-06T22:17:01.094405+03:00 E32 CRON[2798]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T22:17:01.096395+03:00 E32 CRON[2798]: pam_unix(cron:session): session closed for user root
+2024-10-06T23:17:01.125819+03:00 E32 CRON[14121]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-06T23:17:01.127759+03:00 E32 CRON[14121]: pam_unix(cron:session): session closed for user root
+2024-10-07T00:17:01.149027+03:00 E32 CRON[25028]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-07T00:17:01.151075+03:00 E32 CRON[25028]: pam_unix(cron:session): session closed for user root
+2024-10-07T01:17:01.174210+03:00 E32 CRON[35858]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-07T01:17:01.175610+03:00 E32 CRON[35858]: pam_unix(cron:session): session closed for user root
+2024-10-07T02:17:01.203599+03:00 E32 CRON[46692]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-07T02:17:01.205220+03:00 E32 CRON[46692]: pam_unix(cron:session): session closed for user root
+2024-10-07T03:10:01.100108+03:00 E32 CRON[57794]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-07T03:10:01.101326+03:00 E32 CRON[57794]: pam_unix(cron:session): session closed for user root
+2024-10-07T03:17:01.545310+03:00 E32 CRON[60225]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2024-10-07T03:17:01.548455+03:00 E32 CRON[60225]: pam_unix(cron:session): session closed for user root
+2024-10-07T04:12:35.887533+03:00 E32 sudo: srvadmin : TTY=pts/5 ; PWD=/home/srvadmin/Learning/Programming/Bash/Intermediate/03-LogFileAnalyzer ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log
+2024-10-07T04:12:35.892715+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2024-10-07T04:12:35.892772+03:00 E32 sudo: pam_unix(sudo:session): session closed for user root
+2024-10-07T04:12:38.118287+03:00 E32 sudo: srvadmin : TTY=pts/5 ; PWD=/home/srvadmin/Learning/Programming/Bash/Intermediate/03-LogFileAnalyzer ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log .
+2024-10-07T04:12:38.118674+03:00 E32 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
